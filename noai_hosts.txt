@@ -19,7 +19,6 @@
 0.0.0.0 cgdream.ai
 0.0.0.0 tryleap.ai
 0.0.0.0 magichour.ai
-0.0.0.0 perplexity.ai
 0.0.0.0 animegenius.ai
 0.0.0.0 julius.ai
 0.0.0.0 artvy.ai
@@ -199,7 +198,6 @@
 0.0.0.0 hunts.ai
 0.0.0.0 liveapps.ai
 0.0.0.0 powerusers.ai
-0.0.0.0 claude.ai
 0.0.0.0 covers.ai
 0.0.0.0 artemisia.ai
 0.0.0.0 facet.ai
@@ -512,8 +510,6 @@
 0.0.0.0 future-pedia.com
 0.0.0.0 pixai.com
 0.0.0.0 magicstudio.com
-0.0.0.0 openai.com
-0.0.0.0 chatgpt.com
 0.0.0.0 zebrabi.com
 0.0.0.0 mixcomfy.com
 0.0.0.0 scenario.com
@@ -1166,7 +1162,6 @@
 0.0.0.0 www.cgdream.ai
 0.0.0.0 www.tryleap.ai
 0.0.0.0 www.magichour.ai
-0.0.0.0 www.perplexity.ai
 0.0.0.0 www.animegenius.ai
 0.0.0.0 www.julius.ai
 0.0.0.0 www.artvy.ai
@@ -1345,7 +1340,6 @@
 0.0.0.0 www.hunts.ai
 0.0.0.0 www.liveapps.ai
 0.0.0.0 www.powerusers.ai
-0.0.0.0 www.claude.ai
 0.0.0.0 www.covers.ai
 0.0.0.0 www.artemisia.ai
 0.0.0.0 www.facet.ai
@@ -2300,5 +2294,6 @@
 0.0.0.0 www.homediningkitchen.com
 0.0.0.0 www.psichologyanswers.com
 0.0.0.0 www.umatechnology.org
+
 
 
