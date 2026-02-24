@@ -461,7 +461,6 @@
 0.0.0.0 problembo.com
 0.0.0.0 cloudbooklet.com
 0.0.0.0 kawaiiai.com
-0.0.0.0 pixlr.com
 0.0.0.0 curiousrefuge.com
 0.0.0.0 promeai.com
 0.0.0.0 theinsaneapp.com
@@ -2295,6 +2294,7 @@
 0.0.0.0 www.homediningkitchen.com
 0.0.0.0 www.psichologyanswers.com
 0.0.0.0 www.umatechnology.org
+
 
 
 
