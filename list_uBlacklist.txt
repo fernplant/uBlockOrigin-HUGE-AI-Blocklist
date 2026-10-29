@@ -349,7 +349,7 @@
 *://*.gab.ai/*
 *://*.mascots.ai/*
 *://*.moescape.ai/*
-*://*.mistral.ai/*
+# *://*.mistral.ai/*
 *://*.loverse.ai/*
 *://*.typli.ai/*
 *://*.yeschat.ai/*
